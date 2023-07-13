@@ -1,2 +1,4 @@
 # cs288_natural_language_processing
-The implementations of my homework sets for the University of California, Berkeley COMPSCI 288: Natural Language Processing class.
+
+This repository contains algorithms and workflows I implemented for the UC Berkeley COMPSCI 288: Natural Language Processing. Algorithms include n-grams, probabilistic modeling, transformers, attentions, prompt engineering, few-shot learning, and utiliazation of Hugging Face and
+OpenAI's GPT API.
